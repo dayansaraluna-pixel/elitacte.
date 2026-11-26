@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.ElItacate" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#FF5A00</item>
+        <item name="colorPrimaryDark">#E04E00</item>
+        <item name="colorAccent">#FF5A00</item>
+        <item name="colorButtonNormal">#FF5A00</item>
+    </style>
+</resources>
